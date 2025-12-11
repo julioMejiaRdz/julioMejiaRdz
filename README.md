@@ -1,16 +1,58 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, im Julio Mejía</h1>
 
-<!--
-**julioMejiaRdz/julioMejiaRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Ingeniero en Sistemas graduado con honores — Universidad de El Salvador</strong><br/>
+  Desarrollador Full-Stack | .NET • Python • React • Next.js
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+Soy un desarrollador full-stack enfocado en construir aplicaciones modernas, escalables y robustas.  
+Me especializo en arquitecturas limpias, rendimiento, seguridad y UI fluidas.
+
+- 🔹 Full-Stack con experiencia en **.NET, Django/DRF, React y Next.js**
+- 🔹 Interfaces modernas con **Blazor Hybrid, MAUI** y aplicaciones web con **Vite + Tailwind**
+- 🔹 APIs robustas, autenticación segura y aplicaciones 
+- 🔹 Interés en optimización, caching, patrones de arquitectura y buenas prácticas
+- 🎓 **Ingeniero en Sistemas**, Universidad de El Salvador
+
+---
+
+## Tecnologías
+
+### Stack .NET
+- C# • .NET 10  
+- **MAUI**  
+- **Blazor Hybrid**
+
+### Stack Python
+- Django  
+- Django REST Framework (DRF)
+
+### Stack React / Web
+- React  
+- Next.js  
+- Vite  
+- TailwindCSS  
+
+### Bases de Datos
+- SQL Server  
+- PostgreSQL  
+- MongoDB  
+- Redis  
+
+### DevOps / Otros
+- Docker  
+- Nginx  
+
+## Actividad y Estadísticas
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=julioMejiaRdz&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioMejiaRdz&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=julioMejiaRdz&mode=weekly" height="150" />
+</p>
