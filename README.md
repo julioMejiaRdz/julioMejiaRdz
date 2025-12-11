@@ -47,8 +47,25 @@ Me especializo en arquitecturas limpias, rendimiento, seguridad y UI fluidas.
 
 ## Actividad y Estadísticas
 <p align="center">
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=julioMejiaRdz&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=julioMejiaRdz&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=github_dark" 
+    height="150" 
+  />
+</p>
+
+<p align="center">
+  <!-- Top Lenguajes -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioMejiaRdz&layout=compact&langs_count=8&theme=github_dark" 
+    height="150" 
+  />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=julioMejiaRdz&theme=tokyonight&count_private=true" 
     height="150" 
   />
 </p>
