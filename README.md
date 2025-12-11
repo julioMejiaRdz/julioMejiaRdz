@@ -47,12 +47,6 @@ Me especializo en arquitecturas limpias, rendimiento, seguridad y UI fluidas.
 - Nginx  
 
 ## Actividad y Estadísticas
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=julioMejiaRdz&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioMejiaRdz&layout=compact" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=julioMejiaRdz&mode=weekly" height="150" />
 </p>
