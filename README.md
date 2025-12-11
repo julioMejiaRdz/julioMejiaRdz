@@ -48,8 +48,9 @@ Me especializo en arquitecturas limpias, rendimiento, seguridad y UI fluidas.
 ## Actividad y Estadísticas
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=julioMejiaRdz&mode=weekly&count_private=true" 
+    src="https://streak-stats.demolab.com?user=julioMejiaRdz&count_private=true" 
     height="150" 
   />
 </p>
+
 
