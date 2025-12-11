@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Julio Mejía</h1>
 
 <p align="center">
-  <strong>Ingeniero en Sistemas graduado con honores — Universidad de El Salvador</strong><br/>
+  <strong>Ingeniero de Sistemas graduado con honores — Universidad de El Salvador</strong><br/>
   Desarrollador Full-Stack | .NET • Python • React • Next.js
 </p>
 
@@ -41,11 +41,15 @@ Me especializo en arquitecturas limpias, rendimiento, seguridad y UI fluidas.
 - MongoDB  
 - Redis  
 
-### DevOps / Otros
+### DevOps
 - Docker  
 - Nginx  
 
 ## Actividad y Estadísticas
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=julioMejiaRdz&mode=weekly" height="150" />
+  <img 
+    src="https://streak-stats.demolab.com?user=julioMejiaRdz&mode=weekly&count_private=true" 
+    height="150" 
+  />
 </p>
+
