@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, im Julio Mejía</h1>
+<h1 align="center">👋 Hola, soy Julio Mejía</h1>
 
 <p align="center">
   <strong>Ingeniero en Sistemas graduado con honores — Universidad de El Salvador</strong><br/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 Soy un desarrollador full-stack enfocado en construir aplicaciones modernas, escalables y robustas.  
 Me especializo en arquitecturas limpias, rendimiento, seguridad y UI fluidas.
 
@@ -15,7 +15,6 @@ Me especializo en arquitecturas limpias, rendimiento, seguridad y UI fluidas.
 - 🔹 Interfaces modernas con **Blazor Hybrid, MAUI** y aplicaciones web con **Vite + Tailwind**
 - 🔹 APIs robustas, autenticación segura y aplicaciones 
 - 🔹 Interés en optimización, caching, patrones de arquitectura y buenas prácticas
-- 🎓 **Ingeniero en Sistemas**, Universidad de El Salvador
 
 ---
 
