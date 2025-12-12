@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy <strong>Julio Mejía</strong></h1>
 
 <p align="center">
-  Ingeniero de Sistemas — <em>Graduado con Honores Universidad de El Salvador</em>UES<br/>
+  Ingeniero de Sistemas — <em>Graduado con Honores Universidad de El Salvador</em> UES<br/>
   Full-Stack Developer · .NET · Python · React · Next.js
 </p>
 
