@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy <strong>Julio Mejía</strong></h1>
 
 <p align="center">
-  Ingeniero de Sistemas — <em>Graduado con Honores Universidad de El Salvador UES</em><br/>
+  Ingeniero de Sistemas — <em>Graduado con Honores Universidad de El Salvador</em>UES<br/>
   Full-Stack Developer · .NET · Python · React · Next.js
 </p>
 
@@ -10,9 +10,9 @@
 ## Sobre mí  
 Soy un desarrollador full-stack orientado a crear soluciones escalables y de alto rendimiento.
 
-Me especializo en arquitecturas limpia, APIs seguras y aplicaciones con interfaces modernas.
+Me especializo en arquitecturas limpias, APIs seguras y aplicaciones con interfaces modernas.
 
-Actualmente me encuentro laborando con proyectos IoT en tiempo real con tecnología MQTT.
+Actualmente me encuentro laborando en el desarrollo de proyectos IoT en tiempo real con tecnología MQTT de la mano con Ingenieros de aplicaciones especializados en Sysmac Studio.
 
 ---
 
@@ -45,7 +45,7 @@ Link: https://c0m3.com/
 
 ### **Monitoreo Telares INSINCA**
 Dashboard industrial en tiempo real para métricas y análisis de producción.  
-**Stack:** DRF · Next.js · MongoDB · PostgreSQL · Docker · MQTT · NGINX
+**Stack:** DRF · Next.js · Tailwind · MongoDB · PostgreSQL · Docker · MQTT · NGINX
 
 ---
 
@@ -73,4 +73,4 @@ Dashboard industrial en tiempo real para métricas y análisis de producción.
 ---
 
 ## Contacto  
-  **julayrodriguez5022001@gmail.com**
+  correo: **julayrodriguez5022001@gmail.com**
