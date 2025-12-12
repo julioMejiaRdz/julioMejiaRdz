@@ -1,62 +1,76 @@
-<h1 align="center">👋 Hola, soy Julio Mejía</h1>
+<h1 align="center">Hola, soy <strong>Julio Mejía</strong></h1>
 
 <p align="center">
-  <strong>Ingeniero de Sistemas graduado con honores — Universidad de El Salvador</strong><br/>
-  Desarrollador Full-Stack | .NET • Python • React • Next.js
+  Ingeniero de Sistemas — <em>Graduado con Honores Universidad de El Salvador UES</em><br/>
+  Full-Stack Developer · .NET · Python · React · Next.js
 </p>
 
 ---
 
-## Sobre mí
-Soy un desarrollador full-stack enfocado en construir aplicaciones modernas, escalables y robustas.  
-Me especializo en arquitecturas limpias, rendimiento, seguridad y UI fluidas.
+## Sobre mí  
+Soy un desarrollador full-stack orientado a crear soluciones escalables y de alto rendimiento.
 
-- 🔹 Full-Stack con experiencia en **.NET, Django/DRF, React y Next.js**
-- 🔹 Interfaces modernas con **Blazor Hybrid, MAUI** y aplicaciones web con **Vite + Tailwind**
-- 🔹 APIs robustas, autenticación segura y aplicaciones 
-- 🔹 Interés en optimización, caching, patrones de arquitectura y buenas prácticas
+Me especializo en arquitecturas limpia, APIs seguras y aplicaciones con interfaces modernas.
+
+Actualmente me encuentro laborando con proyectos IoT en tiempo real con tecnología MQTT.
 
 ---
 
-## Tecnologías
+## Tech Stack
 
-### Stack .NET
-- C# • .NET 10  
-- **MAUI**  
-- **Blazor Hybrid**
+<div align="center">
 
-### Stack Python
-- Django  
-- Django REST Framework (DRF)
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,django" height="45" />
 
-### Stack React / Web
-- React  
-- Next.js  
-- Vite  
-- TailwindCSS  
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" height="45" />
 
-### Bases de Datos
-- SQL Server  
-- PostgreSQL  
-- MongoDB  
-- Redis  
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="45" />
 
-### DevOps
-- Docker  
-- Nginx  
+<!-- DevOps -->
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux" height="45" />
 
-## Actividad y Estadísticas
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-stats-six-opal.vercel.app/api?username=julioMejiaRdz&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=github_dark" />
-</p>
-<p align="center">
-  <!-- Top Lenguajes -->
-  <img src="https://github-stats-six-opal.vercel.app/api/top-langs/?username=julioMejiaRdz&layout=compact&langs_count=8&theme=github_dark" />
-</p>
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-stats-six-opal.vercel.app/api?username=julioMejiaRdz&show_icons=true&count_private=true" />
-</p>
+</div>
 
+---
 
+## Proyectos Destacados
+
+### **Telemetría Hídrica**
+Plataforma para monitoreo y control del uso de recursos hídricos conforme normativa ASA.  
+**Stack:** Next.js · DRF · Tailwind · Docker · Azure · Linux · PostgreSQL · MQTT · NGINX  
+Link: https://c0m3.com/
+
+### **Monitoreo Telares INSINCA**
+Dashboard industrial en tiempo real para métricas y análisis de producción.  
+**Stack:** DRF · Next.js · MongoDB · PostgreSQL · Docker · MQTT · NGINX
+
+---
+
+## Actividad
+
+<div align="center">
+
+<img 
+  src="https://github-stats-six-opal.vercel.app/api?username=julioMejiaRdz&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" 
+  height="160"
+/>
+
+<img 
+  src="https://github-stats-six-opal.vercel.app/api/top-langs/?username=julioMejiaRdz&layout=compact&langs_count=10&theme=transparent" 
+  height="160"
+/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=julioMejiaRdz&theme=transparent&hide_border=true&count_private=true" 
+  height="160"
+/>
+
+</div>
+
+---
+
+## Contacto  
+  **julayrodriguez5022001@gmail.com**
