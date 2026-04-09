@@ -2,7 +2,7 @@
 
 <p align="center">
   Ingeniero de Sistemas — <em>Universidad de El Salvador</em> UES<br/>
-  Full-Stack Developer · .NET · Python · React · Next.js
+  Full-Stack Developer · .NET · Express · Python · React · Next.js · Angular · React Native · Electron
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ## Sobre mí  
 Soy un desarrollador full-stack orientado a crear soluciones escalables y de alto rendimiento.
 
-Me especializo en arquitecturas limpias, APIs seguras y aplicaciones con interfaces modernas.
+Me especializo en arquitecturas limpias, APIs seguras y aplicaciones con interfaces modernas y amigables.
 
-Actualmente me encuentro laborando en el desarrollo de proyectos IoT en tiempo real con tecnología MQTT de la mano con Ingenieros de aplicaciones especializados en Sysmac Studio.
+Actualmente desarrollo proyectos IoT en tiempo real con tecnología MQTT de la mano con Ingenieros de aplicaciones especializados en Sysmac Studio y sistemas de información gerenciales para la empresa que laboro, tanto desarrollo mobil, web y desktop.
 
 ---
 
