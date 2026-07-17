@@ -62,16 +62,15 @@ Siempre me enfoco en encontrar e implementar la mejor solución a cada problema,
 
 ## Featured Projects
 
-### 🌊 Telemetría Hídrica &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/>
-Platform for monitoring and controlling water-resource usage in compliance with **ASA regulations**. Reads variables directly from **industrial PLCs** and streams them in real time to a web dashboard. Deployed nationwide, currently monitoring wells across **3 client sites** in El Salvador.
+### 💧 Telemetría Hídrica &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/>
+Platform for monitoring and controlling water-resource usage in compliance with **ASA regulations**. Reads the relevant variables directly from **PLCs** and streams them in real time to the web dashboard. Deployed in production, monitoring wells at client sites across El Salvador.
 **Stack:** Next.js · Django REST · Tailwind · PostgreSQL · MQTT · Docker · NGINX · Azure · Linux
 🔗 [c0m3.com](https://c0m3.com/)
 
 ### 📍 Compres Sync — GPS Field Tracking &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/>
-Internal **real-time GPS tracking** system for field sales reps during client visits. Designed as a full ecosystem: a single backend serving two clients.
-- **Backend** — Express 5 + TypeScript, MongoDB and **Socket.IO** for live location streaming; JWT auth with refresh tokens.
-- **Mobile (Kotlin)** — Jetpack Compose app with background GPS tracking (FusedLocation + AlarmManager, Doze-resistant) and an **offline queue** (Room) that auto-syncs when connectivity returns; sends a location point every 30s.
-- **Desktop (Electron)** — Supervisor panel with a **live map** of all active reps, route history & timelines, a fuel-reimbursement module, and **AI journey analysis** (Gemini).
+Internal enterprise system for **real-time GPS monitoring** of the field workforce. A single backend (**Express/TypeScript + Socket.IO**) powers two clients:
+- **Mobile (Kotlin)** — background GPS tracking (Doze-resistant) with an **offline queue** (Room) that auto-syncs when connectivity returns.
+- **Desktop (Electron)** — supervisor panel with a **live map**, route history, a fuel-reimbursement module and **AI-assisted journey analysis** (Gemini).
 
 **Stack:** Express · TypeScript · MongoDB · Socket.IO · Electron · React · Kotlin · Jetpack Compose · Google Maps
 
@@ -84,12 +83,12 @@ Real-time industrial dashboard for **textile-production** metrics and analysis.
 
 <br/>
 
-**🌊 Telemetría Hídrica** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
-Plataforma para el monitoreo y control del aprovechamiento de recursos hídricos conforme a la **normativa ASA**. Lee variables directamente desde **PLCs industriales** y las transmite en tiempo real a un panel web. Desplegada a nivel nacional, monitoreando actualmente pozos en **3 ubicaciones de clientes** en El Salvador.
+**💧 Telemetría Hídrica** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
+Plataforma para el monitoreo y control del aprovechamiento de recursos hídricos conforme a la **normativa ASA**. Lee variables de interés directamente desde **PLCs** y las transmite en tiempo real al panel web. Desplegada en producción, monitoreando pozos de clientes en distintas ubicaciones del país.
 🔗 [c0m3.com](https://c0m3.com/)
 
 **📍 Compres Sync — Rastreo GPS de campo** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
-Sistema interno de **rastreo GPS en tiempo real** de vendedores en campo durante sus visitas a clientes. Un solo backend (Express/TypeScript + Socket.IO) que sirve a dos clientes: una **app móvil Kotlin** con tracking en segundo plano y cola offline (Room), y un **panel de supervisión Electron** con mapa en vivo, historial de rutas, módulo de combustible y análisis de jornada con IA (Gemini).
+Sistema interno empresarial para el **monitoreo GPS en tiempo real** de la fuerza en campo. Un único backend (**Express/TypeScript + Socket.IO**) que sirve a dos clientes: una **app móvil Kotlin** con tracking en segundo plano y cola offline (Room), y un **panel de supervisión Electron** con mapa en vivo, historial de rutas, módulo de combustible y análisis de jornada con IA (Gemini).
 
 **🏭 Monitoreo Telares INSINCA**
 Dashboard industrial en tiempo real para métricas y análisis de producción textil.
