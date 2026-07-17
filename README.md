@@ -14,22 +14,22 @@
 
 ## About Me
 
-Full-stack developer focused on building **scalable, high-performance solutions**. I specialize in clean architectures, secure APIs and modern interfaces across **web, mobile and desktop**.
+Junior full-stack developer with **2 years of experience**, focused on building **scalable, high-performance solutions**. I specialize in clean architectures, secure APIs and modern interfaces for **web, mobile and desktop** clients. I deploy solutions to production on **cloud servers** and work in teams following **agile** software-development methodologies.
 
-I currently build **real-time industrial IoT systems (MQTT)** alongside automation engineers, streaming data straight from **PLCs** into web monitoring platforms — bridging software with industrial hardware. I also develop management information systems (web, mobile and desktop) for the company I work at.
+Over these 2 years I've built **real-time industrial IoT systems (MQTT)** alongside automation engineers, integrating telemetry data straight from **PLCs** into web monitoring platforms — bridging software with industrial hardware. I've also developed management information systems for internal business use.
 
-Systems Engineering graduate with an **outstanding GPA**. I'm passionate about finding the best possible solution to every problem and I learn new technologies fast.
+I always focus on finding and implementing the best solution to each problem, staying in constant learning mode to adopt cutting-edge technologies and apply industry best practices.
 
 <details>
 <summary>🇪🇸 Español</summary>
 
 <br/>
 
-Desarrollador full-stack enfocado en construir **soluciones escalables y de alto rendimiento**. Me especializo en arquitecturas limpias, APIs seguras e interfaces modernas para **web, móvil y escritorio**.
+Soy un desarrollador full-stack junior con **2 años de experiencia**, enfocado en construir **soluciones escalables y de alto rendimiento**. Me especializo en arquitecturas limpias, APIs seguras e interfaces modernas para clientes **web, móvil y de escritorio**. Manejo servidores en la nube para desplegar soluciones en entornos de producción y trabajo en equipo bajo metodologías **ágiles** de desarrollo de software.
 
-Actualmente desarrollo **sistemas IoT industriales en tiempo real (MQTT)** junto a ingenieros de automatización, integrando datos directamente desde **PLCs** hacia plataformas de monitoreo web — haciendo de puente entre el software y el hardware industrial. También desarrollo sistemas de información gerencial (web, móvil y desktop) para la empresa donde laboro.
+En estos 2 años he desarrollado **sistemas IoT industriales en tiempo real (MQTT)** junto a ingenieros de automatización, integrando datos por telemetría directamente desde **PLCs** hacia plataformas de monitoreo web, haciendo de puente entre el software y el hardware industrial. También he construido sistemas de información gerencial para uso interno empresarial.
 
-Ingeniero de Sistemas graduado con **promedio sobresaliente**. Me apasiona encontrar la mejor solución a cada problema y aprendo tecnologías nuevas con rapidez.
+Siempre me enfoco en encontrar e implementar la mejor solución a cada problema, manteniéndome en constante aprendizaje para adoptar tecnologías de vanguardia y aplicar las mejores prácticas de la industria.
 
 </details>
 
