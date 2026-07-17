@@ -74,10 +74,6 @@ Internal enterprise system for **real-time GPS monitoring** of the field workfor
 
 **Stack:** Express · TypeScript · MongoDB · Socket.IO · Electron · React · Kotlin · Jetpack Compose · Google Maps
 
-### 🏭 Monitoreo Telares INSINCA
-Real-time industrial dashboard for **textile-production** metrics and analysis.
-**Stack:** Django REST · Next.js · Tailwind · MongoDB · PostgreSQL · MQTT · Docker · NGINX
-
 <details>
 <summary>🇪🇸 Proyectos (Español)</summary>
 
@@ -89,9 +85,6 @@ Plataforma para el monitoreo y control del aprovechamiento de recursos hídricos
 
 **📍 Compres Sync — Rastreo GPS de campo** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
 Sistema interno empresarial para el **monitoreo GPS en tiempo real** de la fuerza en campo. Un único backend (**Express/TypeScript + Socket.IO**) que sirve a dos clientes: una **app móvil Kotlin** con tracking en segundo plano y cola offline (Room), y un **panel de supervisión Electron** con mapa en vivo, historial de rutas, módulo de combustible y análisis de jornada con IA (Gemini).
-
-**🏭 Monitoreo Telares INSINCA**
-Dashboard industrial en tiempo real para métricas y análisis de producción textil.
 
 </details>
 
