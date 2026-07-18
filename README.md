@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="TU-LINK-DE-LINKEDIN-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/julio-mejia-51287733a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:julayrodriguez5022001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-Junior full-stack developer with **2 years of experience**, focused on building **scalable, high-performance solutions**. I specialize in clean architectures, secure APIs and modern interfaces for **web, mobile and desktop** clients. I deploy solutions to production on **cloud servers** and work in teams following **agile** software-development methodologies.
+Full-stack developer with **2 years of experience**, focused on building **scalable, high-performance solutions**. I specialize in clean architectures, secure APIs and modern interfaces for **web, mobile and desktop** clients. I deploy solutions to production on **cloud servers** and work in teams following **agile** software-development methodologies.
 
 Over these 2 years I've built **real-time industrial IoT systems (MQTT)** alongside automation engineers, integrating telemetry data straight from **PLCs** into web monitoring platforms — bridging software with industrial hardware. I've also developed management information systems for internal business use.
 
@@ -25,7 +25,7 @@ I always focus on finding and implementing the best solution to each problem, st
 
 <br/>
 
-Soy un desarrollador full-stack junior con **2 años de experiencia**, enfocado en construir **soluciones escalables y de alto rendimiento**. Me especializo en arquitecturas limpias, APIs seguras e interfaces modernas para clientes **web, móvil y de escritorio**. Manejo servidores en la nube para desplegar soluciones en entornos de producción y trabajo en equipo bajo metodologías **ágiles** de desarrollo de software.
+Soy un desarrollador full-stack con **2 años de experiencia**, enfocado en construir **soluciones escalables y de alto rendimiento**. Me especializo en arquitecturas limpias, APIs seguras e interfaces modernas para clientes **web, móvil y de escritorio**. Manejo servidores en la nube para desplegar soluciones en entornos de producción y trabajo en equipo bajo metodologías **ágiles** de desarrollo de software.
 
 En estos 2 años he desarrollado **sistemas IoT industriales en tiempo real (MQTT)** junto a ingenieros de automatización, integrando datos por telemetría directamente desde **PLCs** hacia plataformas de monitoreo web, haciendo de puente entre el software y el hardware industrial. También he construido sistemas de información gerencial para uso interno empresarial.
 
@@ -116,4 +116,4 @@ Sistema interno empresarial para el **monitoreo GPS en tiempo real** de la fuerz
 ## Contact
 
 - 📧 **Email:** julayrodriguez5022001@gmail.com
-- 💼 **LinkedIn:** _coming soon_
+- 💼 **LinkedIn:** [julio-mejia](https://www.linkedin.com/in/julio-mejia-51287733a)
