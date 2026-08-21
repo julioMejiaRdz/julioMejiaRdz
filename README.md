@@ -62,7 +62,7 @@ Siempre me enfoco en encontrar e implementar la mejor solución a cada problema,
 
 ## Featured Projects
 
-### 💧 Telemetría Hídrica &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/>
+### Telemetría Hídrica &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/>
 Platform for monitoring and controlling water-resource usage in compliance with **ASA regulations**. Reads the relevant variables directly from **PLCs** and streams them in real time to the web dashboard. Deployed in production, monitoring wells at client sites across El Salvador.
 **Stack:** Next.js · Django REST · Tailwind · PostgreSQL · MQTT · Docker · NGINX · Azure · Linux
 🔗 [c0m3.com](https://c0m3.com/)
@@ -79,7 +79,7 @@ Internal enterprise system for **real-time GPS monitoring** of the field workfor
 
 <br/>
 
-**💧 Telemetría Hídrica** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
+**Telemetría Hídrica** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
 Plataforma para el monitoreo y control del aprovechamiento de recursos hídricos conforme a la **normativa ASA**. Lee variables de interés directamente desde **PLCs** y las transmite en tiempo real al panel web. Desplegada en producción, monitoreando pozos de clientes en distintas ubicaciones del país.
 🔗 [c0m3.com](https://c0m3.com/)
 
