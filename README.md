@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/julioMejiaRdz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Real-time+Industrial+IoT+%C2%B7+MQTT+%C2%B7+PLCs;Web+%C2%B7+Mobile+%C2%B7+Desktop;Scalable+APIs+%26+Clean+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Web+%C2%B7+Mobile+%C2%B7+Desktop;Real-time+systems+%26+clean+APIs;From+requirements+to+production" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   Systems Engineer — <em>University of El Salvador (UES)</em><br/>
-  Node/Express · TypeScript · React · Next.js · Electron · Kotlin
+  Building production-ready software across web, mobile &amp; desktop
 </p>
 
 <p align="center">
@@ -89,8 +89,13 @@ Sobre todo, me enfoco en elegir la solución *correcta* para cada problema y lle
 ## Featured Projects
 
 ### Telemetría Hídrica &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/>
-Platform for monitoring and controlling water-resource usage in compliance with **ASA regulations**. Reads the relevant variables directly from **PLCs** and streams them in real time to the web dashboard. Deployed in production, monitoring wells at client sites across El Salvador.
-**Stack:** Next.js · Django REST · Tailwind · PostgreSQL · MQTT · Docker · NGINX · Azure · Linux
+Platform for monitoring and controlling water-resource usage in compliance with **ASA regulations**. PLCs publish over **MQTT** and a real-time pipeline streams the readings straight to the web dashboard:
+- **Ingestion** — a **Node.js MQTT→Redis bridge** feeds **Django Channels**, pushing readings to the browser over **WebSocket** in real time.
+- **Dual-database storage** — **PostgreSQL** for machines, variables and config; **MongoDB** (24h TTL) for high-volume live readings; **Redis** for pub/sub and the task queue.
+- **Background processing** — **Celery** workers consume the MQTT stream 24/7 and batch-process readings.
+
+Deployed in production with Docker Compose, monitoring **10 wells** at client sites across El Salvador.
+**Stack:** Next.js · Django REST · Django Channels · Celery · Tailwind · PostgreSQL · MongoDB · Redis · MQTT · WebSocket · Docker · NGINX · Azure · Linux
 🔗 [c0m3.com](https://c0m3.com/)
 
 ### 📍 Compres Sync — GPS Field Tracking &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/> <img src="https://img.shields.io/badge/Enterprise%20%C2%B7%20private-lightgrey?style=flat-square" alt="Private"/>
@@ -108,7 +113,7 @@ Deployed with a **silo multi-tenancy** model — a single codebase runs an **iso
 <br/>
 
 **Telemetría Hídrica** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
-Plataforma para el monitoreo y control del aprovechamiento de recursos hídricos conforme a la **normativa ASA**. Lee variables de interés directamente desde **PLCs** y las transmite en tiempo real al panel web. Desplegada en producción, monitoreando pozos de clientes en distintas ubicaciones del país.
+Plataforma para el monitoreo y control del aprovechamiento de recursos hídricos conforme a la **normativa ASA**. Los **PLCs** publican vía **MQTT** y un pipeline en tiempo real transmite las lecturas al panel web: un **bridge Node.js (MQTT→Redis)** alimenta **Django Channels**, que empuja los datos al navegador por **WebSocket**; almacenamiento en doble base de datos (**PostgreSQL** para configuración + **MongoDB** con TTL de 24h para lecturas), con **Redis** para pub/sub y la cola de **Celery** (workers 24/7). Desplegada en producción con Docker, monitoreando **10 pozos** de clientes en El Salvador.
 🔗 [c0m3.com](https://c0m3.com/)
 
 **📍 Compres Sync — Rastreo GPS de campo** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
