@@ -1,8 +1,20 @@
 <h1 align="center">Hi, I'm <strong>Julio Mejía</strong> 👋</h1>
 
 <p align="center">
+  <a href="https://github.com/julioMejiaRdz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Real-time+Industrial+IoT+%C2%B7+MQTT+%C2%B7+PLCs;Web+%C2%B7+Mobile+%C2%B7+Desktop;Scalable+APIs+%26+Clean+Architectures" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   Systems Engineer — <em>University of El Salvador (UES)</em><br/>
-  Full-Stack Developer · Node/Express · TypeScript · React · Next.js · Python/Django · Electron · Kotlin
+  Node/Express · TypeScript · React · Next.js · Electron · Kotlin
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-El%20Salvador%20%F0%9F%87%B8%F0%9F%87%BB-informational?style=for-the-badge" alt="El Salvador"/>
 </p>
 
 <p align="center">
@@ -14,22 +26,36 @@
 
 ## About Me
 
-Full-stack developer with **2 years of experience**, focused on building **scalable, high-performance solutions**. I specialize in clean architectures, secure APIs and modern interfaces for **web, mobile and desktop** clients. I deploy solutions to production on **cloud servers** and work in teams following **agile** software-development methodologies.
+Full-stack developer experienced in building **web, mobile and desktop software**. In my current role I work on **each project end to end** — from requirements and problem analysis through development, unit and integration testing, production deployment and maintenance — designing clean, maintainable architectures and secure APIs.
 
-Over these 2 years I've built **real-time industrial IoT systems (MQTT)** alongside automation engineers, integrating telemetry data straight from **PLCs** into web monitoring platforms — bridging software with industrial hardware. I've also developed management information systems for internal business use.
+Across my work I've built **real-time systems**, **enterprise management platforms** and **industrial IoT** integrations. I work under **agile** methodologies and I'm comfortable both driving a project on my own and collaborating within a team.
 
-I always focus on finding and implementing the best solution to each problem, staying in constant learning mode to adopt cutting-edge technologies and apply industry best practices.
+Above all, I focus on choosing the *right* solution for each problem and shipping it to production.
+
+**Highlights**
+
+- 📡 **Real-time data pipelines** — PLC telemetry from MQTT through a Node.js bridge and Redis Pub/Sub into live WebSocket dashboards (**10 wells** monitored nationwide)
+- 🌎 **Multi-tenant, multi-country backend** — one codebase deploying **isolated per-country instances** (database, timezone, locale, branding) behind a domain-routed **NGINX reverse proxy** (🇸🇻 + 🇬🇹)
+- 📱 **Offline-first mobile + live tracking** — Kotlin/Compose GPS client with an **idempotent** offline queue that auto-syncs on reconnect; **28 field users** on a live map via Socket.IO
+- ⚙️ **End-to-end ownership** — requirements, development, unit & integration testing, production deployment and maintenance
 
 <details>
 <summary>🇪🇸 Español</summary>
 
 <br/>
 
-Soy un desarrollador full-stack con **2 años de experiencia**, enfocado en construir **soluciones escalables y de alto rendimiento**. Me especializo en arquitecturas limpias, APIs seguras e interfaces modernas para clientes **web, móvil y de escritorio**. Manejo servidores en la nube para desplegar soluciones en entornos de producción y trabajo en equipo bajo metodologías **ágiles** de desarrollo de software.
+Desarrollador full-stack con experiencia en construir **software web, móvil y escritorio**. En mi rol actual me desempeño en **cada proyecto de extremo a extremo** — desde el análisis de requerimientos y del problema, el desarrollo, las pruebas unitarias y de integración, el despliegue en producción y el mantenimiento — diseñando arquitecturas mantenibles, limpias y APIs seguras.
 
-En estos 2 años he desarrollado **sistemas IoT industriales en tiempo real (MQTT)** junto a ingenieros de automatización, integrando datos por telemetría directamente desde **PLCs** hacia plataformas de monitoreo web, haciendo de puente entre el software y el hardware industrial. También he construido sistemas de información gerencial para uso interno empresarial.
+En mi trabajo he tenido experiencia en el desarrollo de **sistemas en tiempo real**, **plataformas de gestión empresarial** e integraciones de **IoT industrial**. Trabajo bajo metodologías **ágiles** y me siento cómodo tanto liderando un proyecto por mi cuenta como colaborando dentro de un equipo.
 
-Siempre me enfoco en encontrar e implementar la mejor solución a cada problema, manteniéndome en constante aprendizaje para adoptar tecnologías de vanguardia y aplicar las mejores prácticas de la industria.
+Sobre todo, me enfoco en elegir la solución *correcta* para cada problema y llevarla a producción.
+
+**Highlights**
+
+- 📡 **Pipelines de datos en tiempo real** — telemetría de PLCs desde MQTT, vía un *bridge* Node.js y Redis Pub/Sub, hacia dashboards web por WebSocket (**10 pozos** monitoreados a nivel nacional)
+- 🌎 **Backend multi-tenant y multi-país** — un mismo código despliega **instancias aisladas por país** (base de datos, zona horaria, locale y branding) tras un **proxy inverso NGINX** enrutado por dominio (🇸🇻 + 🇬🇹)
+- 📱 **Móvil offline-first + tracking en vivo** — cliente GPS en Kotlin/Compose con cola offline **idempotente** que auto-sincroniza al reconectar; **28 usuarios de campo** en un mapa en vivo vía Socket.IO
+- ⚙️ **Ownership end-to-end** — requerimientos, desarrollo, pruebas unitarias y de integración, despliegue en producción y mantenimiento
 
 </details>
 
@@ -40,10 +66,10 @@ Siempre me enfoco en encontrar e implementar la mejor solución a cada problema,
 <div align="center">
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=express,nodejs,typescript,python,django" height="45" />
+<img src="https://skillicons.dev/icons?i=express,nodejs,typescript" height="45" />
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" height="45" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45" />
 
 <!-- Mobile & Desktop -->
 <img src="https://skillicons.dev/icons?i=kotlin,electron" height="45" />
@@ -56,7 +82,7 @@ Siempre me enfoco en encontrar e implementar la mejor solución a cada problema,
 
 </div>
 
-<p align="center"><sub>Currently going deeper into: Python/Django · DevOps</sub></p>
+<p align="center"><sub>Currently going deeper into: DevOps · Cloud infrastructure</sub></p>
 
 ---
 
@@ -67,12 +93,14 @@ Platform for monitoring and controlling water-resource usage in compliance with 
 **Stack:** Next.js · Django REST · Tailwind · PostgreSQL · MQTT · Docker · NGINX · Azure · Linux
 🔗 [c0m3.com](https://c0m3.com/)
 
-### 📍 Compres Sync — GPS Field Tracking &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/>
+### 📍 Compres Sync — GPS Field Tracking &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/> <img src="https://img.shields.io/badge/Enterprise%20%C2%B7%20private-lightgrey?style=flat-square" alt="Private"/>
 Internal enterprise system for **real-time GPS monitoring** of the field workforce. A single backend (**Express/TypeScript + Socket.IO**) powers two clients:
 - **Mobile (Kotlin)** — background GPS tracking (Doze-resistant) with an **offline queue** (Room) that auto-syncs when connectivity returns.
 - **Desktop (Electron)** — supervisor panel with a **live map**, route history, a fuel-reimbursement module and **AI-assisted journey analysis** (Gemini).
 
-**Stack:** Express · TypeScript · MongoDB · Socket.IO · Electron · React · Kotlin · Jetpack Compose · Google Maps
+Deployed with a **silo multi-tenancy** model — a single codebase runs an **isolated instance per country** (🇸🇻 El Salvador · 🇬🇹 Guatemala), each with its own database and country-scoped configuration (timezone, locale, branding) resolved from a central config module, all on a shared server behind an **NGINX reverse proxy** that routes each country's domain to its instance. Currently tracking **28 field users** in production.
+
+**Stack:** Express · TypeScript · MongoDB · Socket.IO · Electron · React · Kotlin · Jetpack Compose · Google Maps · NGINX
 
 <details>
 <summary>🇪🇸 Proyectos (Español)</summary>
@@ -84,7 +112,7 @@ Plataforma para el monitoreo y control del aprovechamiento de recursos hídricos
 🔗 [c0m3.com](https://c0m3.com/)
 
 **📍 Compres Sync — Rastreo GPS de campo** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
-Sistema interno empresarial para el **monitoreo GPS en tiempo real** de la fuerza en campo. Un único backend (**Express/TypeScript + Socket.IO**) que sirve a dos clientes: una **app móvil Kotlin** con tracking en segundo plano y cola offline (Room), y un **panel de supervisión Electron** con mapa en vivo, historial de rutas, módulo de combustible y análisis de jornada con IA (Gemini).
+Sistema interno empresarial para el **monitoreo GPS en tiempo real** de la fuerza en campo. Un único backend (**Express/TypeScript + Socket.IO**) que sirve a dos clientes: una **app móvil Kotlin** con tracking en segundo plano y cola offline (Room), y un **panel de supervisión Electron** con mapa en vivo, historial de rutas, módulo de combustible y análisis de jornada con IA (Gemini). Desplegado con un modelo de **multi-tenancy tipo silo** — un mismo código ejecuta una **instancia aislada por país** (🇸🇻 El Salvador · 🇬🇹 Guatemala), cada una con su propia base de datos y configuración por país (zona horaria, locale, branding) resuelta desde un módulo de configuración central, todo sobre un servidor compartido tras un **proxy inverso NGINX** que enruta el dominio de cada país a su instancia. Hoy monitoreando **28 usuarios de campo** en producción.
 
 </details>
 
@@ -95,17 +123,12 @@ Sistema interno empresarial para el **monitoreo GPS en tiempo real** de la fuerz
 <div align="center">
 
 <img
-  src="https://github-stats-six-opal.vercel.app/api?username=julioMejiaRdz&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"
+  src="https://github-stats-six-opal.vercel.app/api?username=julioMejiaRdz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent"
   height="160"
 />
 
 <img
-  src="https://github-stats-six-opal.vercel.app/api/top-langs/?username=julioMejiaRdz&layout=compact&langs_count=10&theme=transparent"
-  height="160"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=julioMejiaRdz&theme=transparent&hide_border=true&count_private=true"
+  src="https://github-stats-six-opal.vercel.app/api/top-langs/?username=julioMejiaRdz&layout=compact&langs_count=10&hide_border=true&theme=transparent"
   height="160"
 />
 
