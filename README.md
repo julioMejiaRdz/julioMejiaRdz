@@ -12,9 +12,9 @@
 </p>
 
 ## <p align="center">
-##  <img src="https://img.shields.io/badge/Open%20to%20opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities"/>
-##  &nbsp;
-##  <img src="https://img.shields.io/badge/Based%20in-El%20Salvador%20%F0%9F%87%B8%F0%9F%87%BB-informational?style=for-the-badge" alt="El Salvador"/>
+## <img src="https://img.shields.io/badge/Open%20to%20opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities"/>
+## &nbsp;
+## <img src="https://img.shields.io/badge/Based%20in-El%20Salvador%20%F0%9F%87%B8%F0%9F%87%BB-informational?style=for-the-badge" alt="El Salvador"/>
 ## </p>
 
 <p align="center">
