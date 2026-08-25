@@ -11,12 +11,6 @@
   Web, mobile &amp; desktop software
 </p>
 
-## <p align="center">
-## <img src="https://img.shields.io/badge/Open%20to%20opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities"/>
-## &nbsp;
-## <img src="https://img.shields.io/badge/Based%20in-El%20Salvador%20%F0%9F%87%B8%F0%9F%87%BB-informational?style=for-the-badge" alt="El Salvador"/>
-## </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-mejia-51287733a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:julayrodriguez5022001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
