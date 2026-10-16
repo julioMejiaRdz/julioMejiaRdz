@@ -2,40 +2,49 @@
 
 <p align="center">
   <a href="https://github.com/julioMejiaRdz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Systems+Engineer;Full-Stack+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Systems+Engineer;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
- <em>University of El Salvador (UES)</em><br/>
-  Web, mobile &amp; desktop software
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/julio-mejia-51287733a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:julayrodriguez5022001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <strong>Real-time systems · Industrial IoT · Web, mobile &amp; desktop</strong><br/>
+  <em>Systems Engineering — University of El Salvador (UES)</em>
 </p>
 
 ---
 
 ## About Me
 
-Full-stack developer experienced in building **web, mobile and desktop software**. In my current role I work on **each project end to end** — from requirements and problem analysis through development, unit and integration testing, production deployment and maintenance — designing clean, maintainable architectures and secure APIs.
+Full-stack developer building **web, mobile and desktop software**, with a soft spot for **real-time systems**. In my current role I own **each project end to end** — requirements and problem analysis, architecture, development, unit and integration testing, production deployment and maintenance.
 
-Across my work I've built **real-time systems**, **enterprise management platforms** and **industrial IoT** integrations. I work under **agile** methodologies and I'm comfortable both driving a project on my own and collaborating within a team.
+**What I work on**
 
-Above all, I focus on choosing the *right* solution for each problem and shipping it to production.
+- ⚡ **Real-time data pipelines** — streaming live data from devices to dashboards with MQTT, Redis Pub/Sub and WebSockets / Socket.IO.
+- 🏭 **Industrial IoT** — integrating PLC telemetry into web platforms, with Python workers processing the data stream 24/7 in production.
+- 🏢 **Enterprise platforms** — Node.js/TypeScript backends, secure APIs and admin panels, including silo multi-tenant deployments (an isolated instance and database per country behind an NGINX reverse proxy).
+- 📱 **Mobile & desktop** — Android apps in Kotlin + Jetpack Compose with offline-first sync, and Electron desktop apps.
+
+**How I work**
+
+I work under **agile** methodologies and I'm comfortable both driving a project on my own and collaborating within a team. I care about clean, maintainable architecture — and above all about choosing the *right* solution for each problem and shipping it to production.
 
 <details>
 <summary>🇪🇸 Español</summary>
 
 <br/>
 
-Desarrollador full-stack con experiencia en desarrollo de **software web, móvil y escritorio**. En mi rol actual me desempeño en **cada proyecto de extremo a extremo** — desde el análisis de requerimientos y del problema, el desarrollo, las pruebas unitarias y de integración, el despliegue en producción y el mantenimiento — diseñando arquitecturas mantenibles, limpias y APIs seguras.
+Desarrollador full-stack enfocado en **software web, móvil y de escritorio**, con especial interés en los **sistemas en tiempo real**. En mi rol actual me encargo de **cada proyecto de extremo a extremo** — análisis de requerimientos y del problema, arquitectura, desarrollo, pruebas unitarias y de integración, despliegue en producción y mantenimiento.
 
-En mi carrera he tenido experiencia en el desarrollo de sistemas **en tiempo real**, **de gestión empresarial** e integraciones de tecnologías **IoT industriales**. Trabajando bajo metodologías **ágiles**, me siento cómodo tanto liderando un proyecto por mi cuenta como colaborando dentro de un equipo.
+**En qué trabajo**
 
-Sobre todo, me enfoco en elegir la solución *correcta* para cada problema hasta llevarla a producción.
+- ⚡ **Pipelines de datos en tiempo real** — transmisión de datos en vivo desde dispositivos hasta dashboards con MQTT, Redis Pub/Sub y WebSockets / Socket.IO.
+- 🏭 **IoT industrial** — integración de telemetría de PLCs en plataformas web, con workers en Python procesando el flujo de datos 24/7 en producción.
+- 🏢 **Plataformas empresariales** — backends en Node.js/TypeScript, APIs seguras y paneles de administración, incluyendo despliegues multi-tenant tipo silo (una instancia y base de datos aislada por país tras un proxy inverso NGINX).
+- 📱 **Móvil y escritorio** — apps Android en Kotlin + Jetpack Compose con sincronización offline-first, y apps de escritorio con Electron.
+
+**Cómo trabajo**
+
+Trabajo bajo metodologías **ágiles** y me siento cómodo tanto liderando un proyecto por mi cuenta como colaborando dentro de un equipo. Me importan las arquitecturas limpias y mantenibles y, sobre todo, elegir la solución *correcta* para cada problema hasta llevarla a producción.
 
 </details>
 
@@ -43,53 +52,16 @@ Sobre todo, me enfoco en elegir la solución *correcta* para cada problema hasta
 
 ## Tech Stack
 
-<div align="center">
+| Area | Stack | What I use it for |
+|:--|:--|:--|
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,python" height="36" alt="Node.js, Express, TypeScript, Python" /> | Node.js: REST APIs and business logic for web, mobile and desktop clients · Python: APIs and background workers |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="36" alt="React, Next.js, Tailwind CSS" /> | Real-time dashboards, admin panels and live maps |
+| **Mobile & Desktop** | <img src="https://skillicons.dev/icons?i=kotlin,electron" height="36" alt="Kotlin, Electron" /> | Android with Jetpack Compose (background tracking, offline queue) · Electron desktop apps |
+| **Real-time & IoT** | <img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" /> | MQTT · Redis Pub/Sub · WebSocket / Socket.IO |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="36" alt="PostgreSQL, MongoDB" /> | PostgreSQL for relational data · MongoDB for high-volume readings and tracking data |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,nginx,linux" height="36" alt="Docker, NGINX, Linux" /> | Docker Compose deployments, NGINX reverse proxy, Linux servers |
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=express,nodejs,typescript" height="45" />
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45" />
-
-<!-- Mobile & Desktop -->
-<img src="https://skillicons.dev/icons?i=kotlin,electron" height="45" />
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="45" />
-
-<!-- DevOps -->
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux" height="45" />
-
-</div>
-
-<p align="center"><sub>Currently going deeper into: DevOps · Cloud infrastructure</sub></p>
-
----
-
-## Featured Projects
-
-### Telemetría Hídrica &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/>
-Industrial IoT platform for water-resource monitoring under **ASA regulations**. PLCs publish over **MQTT** into a real-time pipeline — a **Node.js MQTT→Redis bridge** feeds **Django Channels**, streaming live readings to the dashboard over **WebSocket**, with dual-database storage (**PostgreSQL** for config + **MongoDB** 24h TTL for readings) and **Celery** workers processing the stream 24/7. In production, monitoring **10 wells** across El Salvador.
-**Stack:** Next.js · Django · Django Channels · Celery · PostgreSQL · MongoDB · Redis · MQTT · WebSocket · Docker · NGINX · Azure
-🔗 [c0m3.com](https://c0m3.com/)
-
-### 📍 Compres Sync — GPS Field Tracking &nbsp;<img src="https://img.shields.io/badge/Live-brightgreen?style=flat-square" alt="Live"/> <img src="https://img.shields.io/badge/Enterprise%20%C2%B7%20private-lightgrey?style=flat-square" alt="Private"/>
-Enterprise system for **real-time GPS monitoring** of a field workforce — one **Express/Socket.IO** backend serving a **Kotlin/Compose** mobile app (background tracking + an **offline queue** that auto-syncs) and an **Electron** supervisor panel (live map, route history, fuel-reimbursement module, **Gemini AI** journey analysis). Deployed as **silo multi-tenancy**: an isolated instance per country (🇸🇻 El Salvador · 🇬🇹 Guatemala) with its own database and config, behind a domain-routed **NGINX reverse proxy** — **28 field users** in production.
-**Stack:** Express · TypeScript · MongoDB · Socket.IO · Electron · React · Kotlin · Jetpack Compose · NGINX
-
-<details>
-<summary>🇪🇸 Proyectos (Español)</summary>
-
-<br/>
-
-**Telemetría Hídrica** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
-Plataforma IoT industrial para el monitoreo de recursos hídricos bajo **normativa ASA**. **PLCs** publican vía **MQTT** hacia un pipeline en tiempo real, un **bridge Node.js (MQTT + Redis)** alimenta **Django Channels**, que transmite las lecturas al panel por **WebSocket**, con doble base de datos (**PostgreSQL** para configuración + **MongoDB** TTL 24h para lecturas históricas) y workers **Celery** procesando el flujo 24/7. En producción, monitoreando **10 pozos** de clientes en El Salvador.
-🔗 [c0m3.com](https://c0m3.com/)
-
-**📍 Compres Sync — Rastreo GPS de campo** — <img src="https://img.shields.io/badge/En%20producci%C3%B3n-brightgreen?style=flat-square" alt="En producción"/>
-Sistema empresarial interno para el **monitoreo GPS en tiempo real** de la fuerza en campo — un backend **Express/Socket.IO** que sirve a una **app móvil Kotlin/Compose** (tracking en segundo plano + cola offline idempotente que auto-sincroniza) y a un **panel Electron** (mapa en vivo, historial de rutas, módulo de combustible, análisis de jornada con **IA Gemini**). Desplegado como **multi-tenancy tipo silo**: una instancia aislada por sucursal (país) (🇸🇻 El Salvador · 🇬🇹 Guatemala) con su propia base de datos y configuración, tras un **proxy inverso NGINX** enrutado por dominio — **28 usuarios de campo (18 SV + 10 GT)** en producción.
-
-</details>
+<sub>Currently going deeper into: Linux</sub>
 
 ---
 
@@ -113,5 +85,17 @@ Sistema empresarial interno para el **monitoreo GPS en tiempo real** de la fuerz
 
 ## Contact
 
-- 📧 **Email:** julayrodriguez5022001@gmail.com
-- 💼 **LinkedIn:** [julio-mejia](https://www.linkedin.com/in/julio-mejia-51287733a)
+<p align="center">
+  <strong>Let's connect.</strong><br/>
+  Always happy to talk about real-time systems, full-stack development or anything tech.<br/>
+  <sub>¿Quieres conversar sobre desarrollo o tecnología? Escríbeme, con gusto conversamos.</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:julayrodriguez5022001@gmail.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+  <a href="https://www.linkedin.com/in/julio-mejia-51287733a"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <sub>📧 julayrodriguez5022001@gmail.com &nbsp;·&nbsp; 📍 El Salvador (UTC−6)</sub>
+</p>
